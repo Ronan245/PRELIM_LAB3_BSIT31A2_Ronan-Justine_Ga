@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>PRELIM_LAB3_BSIT31A2_Ronan_Justine_Ga</RootNamespace>
+  </PropertyGroup>
+
+</Project>
